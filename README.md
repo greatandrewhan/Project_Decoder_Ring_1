@@ -1,5 +1,5 @@
 # Project_Decoder_Ring_1
-Requirements to pass
+# Requirements to pass
 For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
 
 All tests are passing in Qualified.
